@@ -6,7 +6,7 @@ This project implements a remote surveillance turret system with landmine detect
 
 - Arduino UNO
 - ESP32-CAM (AI Thinker)
-- HC-05 Bluetooth Module
+- 2x HC-05 Bluetooth Module
 - 2x Servo Motors
 - DC Motors for Movement
 - C# GUI for Mouse-based Maneuvering
