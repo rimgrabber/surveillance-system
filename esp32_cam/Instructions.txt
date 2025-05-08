@@ -1,0 +1,16 @@
+## ESP32-CAM Steps :
+
+Open Arduino IDE
+⤷ Go to File > Examples > ESP32 > Camera > CameraWebServer
+
+⤷ Select board: “AI Thinker ESP32-CAM”
+
+⤷ Change WiFi credentials:
+const char* ssid = "your_wifi_ssid";
+const char* password = "your_wifi_password";
+
+⤷ Upload via FTDI module
+
+⤷ Open Serial Monitor at 115200 baud and press RESET
+
+⤷ Access IP in browser for live stream
